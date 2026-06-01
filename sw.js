@@ -1,4 +1,4 @@
-const CACHE = 'jauge-pro-v3';
+const CACHE = 'jauge-pro-v6';
 const ASSETS = [
   '.',
   './index.html',
